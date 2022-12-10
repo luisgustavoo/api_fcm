@@ -1,0 +1,9 @@
+# Files and directories created by pub.
+.dart_tool/
+.packages
+
+# Conventional directory for build output.
+build/
+assets/
+
+job-timer-1-firebase-adminsdk-p6dtg-723dd9e2f9.json
