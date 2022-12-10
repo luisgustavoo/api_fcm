@@ -40,7 +40,7 @@ class ApiFcmRouters {
   }
 
   Router get routers {
-    return Router()..post('/send', sendPush);
+    return Router()..post('/send-push', sendPush);
   }
 
   Future<AuthClient> obtainAuthenticatedClient() async {
